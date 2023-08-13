@@ -1,16 +1,25 @@
-### Hi there 👋
+### Olá eu sou o Fellype!👋
 
-<!--
-**Fellyxpe/Fellyxpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>°Este é meu perfil no github aqui você vai ver meus projetos e estudos</h1>
 
-Here are some ideas to get you started:
+- 🎓 estou aprendendo sobre c#, python, desenvolvimento web(css, html, js) e também sobre bancos de dados;
+- 😎 estou disponivel para projetos;
+- 😊 meus pronomes: Ele/Dele;
+  
+![Fellyxpe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fellyxpe&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fellyxpe&hide_progress=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Felly-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Felly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Felly-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Felly-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Felly-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+  
+ ##
+
+ <a src = "https://www.youtube.com/@Fellef/channels" target = "_blank"><img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a src = "linkedin.com/in/fellype-ferreira-948267166"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a src = "darkmon480@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
