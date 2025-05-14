@@ -30,17 +30,14 @@
 
 ## 🌟 Projetos em Destaque
 
-- 🎮 [Shooter Unity 2D](https://github.com/Fellyxpe/shooter_unity_2d)  
-  Um jogo de tiro em 2D feito com Unity e C#. Inclui movimentação, inimigos e sistema de pontuação.
+- 🧮 [ProjetoCalculadora](https://github.com/Fellyxpe/ProjetoCalculadora)  
+  Tentativa de criar uma calculadora utilizando C#.
 
-- 🛠️ [App de Cadastro Java](https://github.com/Fellyxpe/app_java)  
-  Aplicativo simples de cadastro de clientes com Java e interface gráfica Swing.
+- 🌐 [projetos-Que-eu-criei](https://github.com/Fellyxpe/projetos-Que-eu-criei)  
+  Repositório contendo projetos diversos desenvolvidos em HTML.
 
-- 🧠 [IA Simples em Python](https://github.com/Fellyxpe/ia_python)  
-  Projeto de introdução à inteligência artificial com Python, usando lógica básica e aprendizado supervisionado.
-
-- 🌐 [Portfólio Web HTML/CSS](https://github.com/Fellyxpe/portfolio_html_css)  
-  Site pessoal com estrutura responsiva usando HTML5 e CSS3. Ideal para treinar front-end básico.
+- 📝 [meu_primeirohtml](https://github.com/Fellyxpe/meu_primeirohtml)  
+  Meu primeiro projeto utilizando HTML.
 
 ---
 
